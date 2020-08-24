@@ -10,7 +10,7 @@ single system, or you can follow the manual instructions for your OS.
 Here's an overview of the options:
 
 * **One-line Install:** Run our installation script for an opinionated install of all components
-  on a single system. This is a our recommended way to get started. See the :ref:`Quick Install
+  on a single system. This is our recommended way to get started. See the :ref:`Quick Install
   <ref-one-line-install>` section below for details.
 * **Manual Installation:** Have custom needs? Maybe no Internet access from your servers? Or just
   don't like using scripted installs? Read the manual installation instructions for your OS
